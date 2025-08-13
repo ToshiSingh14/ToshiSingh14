@@ -37,10 +37,28 @@
 ---
 
 ## 🌱 Currently Learning
-- Full Stack Development with AI Integration
-- Unity Game Development
-- Competitive Programming (Python, C, Java)
-- IoT Projects with ESP32 & Sensors
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+- **Full Stack Development with AI Integration**  
+- **Unity Game Development**  
+- **Competitive Programming (Python, C, Java)**  
+- **IoT Projects with ESP32 & Sensors**
+
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coder" width="260"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ---
 
