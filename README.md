@@ -15,17 +15,30 @@
 ---
 
 ## 🛠 Tech Stack
+### 🔧 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,unity,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nodejs,express,tensorflow,pytorch&perline=11"/>
+</p>
+
+### 🗃️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,azure,firebase,gcp,docker&perline=8"/>
+</p>
+
+### 🎮 Game & IoT Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,arduino,raspberrypi,blender,unreal&perline=5"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToshiSingh14&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshiSingh14&layout=compact&theme=radical" height="165" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToshiSingh14&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshiSingh14&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+</div>
+
+
 
 ---
 
@@ -87,6 +100,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ToshiSingh14&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ToshiSingh14?label=Follow&style=social" alt="GitHub Followers" />
+</div>
 
 ---
 
