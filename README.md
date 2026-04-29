@@ -1,7 +1,11 @@
+<!-- ================= HEADER ================= -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Toshi%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=56"/>
+</p>
 
 <h1 align="center">
-  Hi, I'm Toshi Singh 👋  
+  Hi, I'm Toshi Singh   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
@@ -13,6 +17,24 @@
 </p>
 
 ---
+
+# 💫 About Me
+
+<img align="right" width="280" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+```javascript
+const toshi = {
+   name: "Toshi Singh",
+   location: "India 🇮🇳",
+   role: "Full Stack Developer",
+   skills: ["JavaScript", "Python", "C", "MongoDB", "Node.js"],
+   interests: ["AI", "IoT", "Game Development"],
+   codingProfile: "Competitive Programmer 💻",
+   futureGoal: "Build impactful tech products 🚀",
+   hobbies: ["Coding", "Projects", "Learning New Tech"],
+   funFact: "Code is like magic — I love creating things ✨"
+};
+```
 
 ## 🛠 Tech Stack
 ### 🔧 Languages & Frameworks
